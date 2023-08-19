@@ -1,0 +1,43 @@
+.color-text-img {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.color-text-img img {
+    height: 200px;
+    width: 200px;
+}
+/* img {
+    height: 200px;
+    width: 200px;
+} */
+
+
+.color-text-img h2 {
+    font-weight: normal;
+}
+/* .color-title {
+    font-weight: normal;
+} */
+
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
